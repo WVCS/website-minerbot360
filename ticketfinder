@@ -1,1 +1,17 @@
-
+<html>
+  <body>
+    <nav>
+     <li> <a href="index.html"> Home </a></li>
+     <li> <a href="ticketfinder.html"> Ticket Finder </a></li>
+     <li> <a href="boardgameapp.html"> Board Games </a></li>
+  </nav>
+  
+  <br>
+  <br>
+  
+  <center>
+  <h1> Venuefinder app, built with CodeStudio </h1>
+    
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/7zJZ406pCG7rwiJx908T33y2cxQEF0TyVnECTNqiJyo/embed"></iframe>
+  </body>
+</html>
