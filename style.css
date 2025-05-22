@@ -2,6 +2,7 @@ h1 {
   background-color: #344e41;
   color: white;
   font-family: Verdana;
+  padding: 15px 0px;
 }
 
 img {
@@ -10,4 +11,26 @@ img {
 
 img:hover {
   width: 500px;
+}
+
+nav {
+  list-style: none;
+  width: 100%;
+  background-color: #95A3A4;
+  position: fixed;
+  
+}
+
+li a {
+  color: #f4f1de;
+  text-decoration: none;
+  size: 24px;
+  float: left;
+  padding: 15px 30px;
+  font-family: helvetica;
+  font-size: 18px;
+}
+
+li a:hover {
+  background-color: #1d3461;
 }
